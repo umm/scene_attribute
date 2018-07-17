@@ -13,7 +13,7 @@
 # Install
 
 ```shell
-$ npm install github:umm-projects/scene_attribute
+$ npm install github:umm/scene_attribute
 ```
 
 # Usage
